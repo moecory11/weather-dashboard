@@ -1,0 +1,46 @@
+.container-fluid {
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    background-color: #343a40;
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+}
+.container {
+    width: 25%;
+    display: inline-block;
+    justify-content: center;
+    align-content: center;
+}
+.h1title {
+    color: #777a83;
+    font-size: 25px;
+}
+.input-group-text {
+    background-color: #007bff;
+    color: white;
+    border: 1px solid #007bff;
+}
+.input-group-text:hover {
+    border: 2px solid #007bff;
+}
+.list-group-item {
+    height: 55px;
+    width: 85%;
+    margin-left: 10px;
+}
+.container-2 {
+    margin-top: 15px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    height: 60%;
+    width: 70%;
+}
+.list-group {
+    width: 125%;
+}
+.main-container {
+    display: flex;
+    flex-direction: row;
+}
