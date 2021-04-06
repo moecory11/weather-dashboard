@@ -6,7 +6,7 @@ To access the HTML, CSS and JS you can go to the GitHub repository for this proj
 https://github.com/moecory11/weather-dashboard
 ## Usage
 When using this weather dashboard all you need to do is enter the city for which you want to know the weather conditions and press the search button. The search will return the current date, temerature, humidity and wind speed of the city you selected. In addition it will provide a 5 day forecast. After you enter a new city to search, your previous city search will be saved in the list below.
-![Website with navigation bar](https://github.com/moecory11/work-day-scheduler/blob/main/images/Day%20Planner%20Screenshot.png?raw=true)
+![Website with navigation bar](https://github.com/moecory11/weather-dashboard/blob/main/assets/img/weather%20dashboard%20screenshot.png?raw=true)
 ## Credits
 While creating this weather dashboard my main source of references and resources came from the examples and activities in my daily class content as well as mini projects.
 ## License
